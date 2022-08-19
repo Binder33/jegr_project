@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+    font-size: 40px;
+    font-family: calibri;
+    transition: background-color 1s;
+}
+h1:hover {
+    cursor: pointer;
+    background-color: green;
+}
+a {
+    text-decoration: none;
+    color: gold;
+    font-size: 20px;
+    transition: 0.8s;
+}
+a:hover {
+    background-color: black;
+    left: 0;
+}
